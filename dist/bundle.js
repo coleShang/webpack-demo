@@ -17288,7 +17288,7 @@ exports = module.exports = __webpack_require__(7)(undefined);
 
 
 // module
-exports.push([module.i, ".hello{\n\tcolor:red;\n\tbackground:url(" + __webpack_require__(0) + ") no-repeat left top;\n}\n", ""]);
+exports.push([module.i, ".hello{\n\tcolor:red;\n\tbackground:url(" + __webpack_require__(0) + ") no-repeat left top;\n\twidth:100px;\n}\n", ""]);
 
 // exports
 

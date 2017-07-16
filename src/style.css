@@ -1,4 +1,5 @@
 .hello{
 	color:red;
-	background:url(./logo.png) no-repeat left top;
+	background:#f00 url(./logo.png) no-repeat left top;
+	height:1000px;
 }
